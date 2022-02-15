@@ -1,0 +1,36 @@
+{
+  "name": "axioushomework",
+  "description": "Axious homework",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">14.0"
+  },
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.25.0"
+  },
+  "keywords": [
+    "node.js",
+    "axios"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.17.0",
+    "@babel/core": "^7.17.2",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11"
+  },
+  "author": "Ali Yigit Ogun",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byaliego/axios_homework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byaliego/axios_homework/issues"
+  },
+  "homepage": "https://github.com/byaliego/axios_homework#readme"
+}
